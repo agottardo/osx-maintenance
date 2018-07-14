@@ -1,5 +1,5 @@
 # osx-maintenance 👨🏻‍💻
-A simple maintenance script for the average Mac OS X install. I mean, average if you develop software. Runs on the (awesome) Fish shell.
+A simple maintenance script for the average Mac OS X install. I mean, average if you develop software. Runs on the awesome [Fish shell](https://github.com/fish-shell/fish-shell) 🐟.
 
 ## What it does
 - Upgrades all brew packages, including casks [`brew upgrade; brew cask upgrade`]
