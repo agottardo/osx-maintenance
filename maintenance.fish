@@ -2,7 +2,6 @@ function maintenance
   brew upgrade
   brew cask upgrade
   brew cleanup
-  brew cask cleanup
   sudo rm -rfv /private/var/log/asl/*.asl
   sudo rm -rfv /Library/Logs/DiagnosticReports/*
   sudo rm -rfv /Library/Logs/Adobe/*
